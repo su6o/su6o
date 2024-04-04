@@ -3,8 +3,7 @@
 
 [![Website](https://img.shields.io/website?label=su60su&style=flat-square&url=https://linktr.ee/aehdevils)][website]
 [![Twitter Follow](https://img.shields.io/twitter/follow/su60su?color=1DA1F2&logo=twitter&style=flat-square)](https://twitter.com/intent/follow?screen_name=su6osu)
-[![GitHub Org's stars](https://img.shields.io/github/stars/0day-de?label=Github%20Stars&style=flat-square)][github]
-
+[![LinkedIn Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/deepanshu-chauhan-466232266)
 
 - Information security enthusiast with strong interest in penetration testing and offensive security.
 - Strong background in security tools, emerging technologies, processes and best practices.
@@ -42,7 +41,7 @@
 
 [<img align="left" alt="linktr.ee/aehdevils" width="22px" src="https://img.icons8.com/material-rounded/24/FAB005/globe--v1.png"/>][website] 
 [<img align="left" alt="su6osu | Twitter" width="22px" src="https://img.icons8.com/ios-glyphs/30/FAB005/twitter--v1.png"/>][twitter]
-[<img align="left" alt="deepanshu-chauhan | LinkedIn" width="22px" src="https://img.icons8.com/ios-glyphs/30/FAB005/linkedin.png"/>][linkedin]
+[<img align="left" alt="deepanshu-chauhan-466232266 | LinkedIn" width="22px" src="https://img.icons8.com/ios-glyphs/30/FAB005/linkedin.png"/>][linkedin]
 [<img align="left" alt="su6o.su | Instagram" width="22px" src="https://img.icons8.com/ios-glyphs/30/FAB005/instagram-new.png"/>][instagram]
 
 <!-- Reference Links -->
