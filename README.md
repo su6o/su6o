@@ -40,10 +40,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="linktr.ee/aehdevils" width="22px" src="https://img.icons8.com/material-rounded/24/FFFFFF/globe--v1.png"/>][website] 
-[<img align="left" alt="su6osu | Twitter" width="22px" src="https://img.icons8.com/ios-glyphs/30/FFFFFF/twitter--v1.png"/>][twitter]
-[<img align="left" alt="deepanshu-chauhan | LinkedIn" width="22px" src="https://img.icons8.com/ios-glyphs/30/FFFFFF/linkedin.png"/>][linkedin]
-[<img align="left" alt="su6o.su | Instagram" width="22px" src="https://img.icons8.com/ios-glyphs/30/FFFFFF/instagram-new.png"/>][instagram]
+[<img align="left" alt="linktr.ee/aehdevils" width="22px" src="https://img.icons8.com/material-rounded/24/FAB005/globe--v1.png"/>][website] 
+[<img align="left" alt="su6osu | Twitter" width="22px" src="https://img.icons8.com/ios-glyphs/30/FAB005/twitter--v1.png"/>][twitter]
+[<img align="left" alt="deepanshu-chauhan | LinkedIn" width="22px" src="https://img.icons8.com/ios-glyphs/30/FAB005/linkedin.png"/>][linkedin]
+[<img align="left" alt="su6o.su | Instagram" width="22px" src="https://img.icons8.com/ios-glyphs/30/FAB005/instagram-new.png"/>][instagram]
 
 <!-- Reference Links -->
 
