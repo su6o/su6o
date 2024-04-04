@@ -7,7 +7,7 @@
 
 - Information security enthusiast with strong interest in penetration testing and offensive security.
 - Strong background in security tools, emerging technologies, processes and best practices.
-- Reported Security Vulnerabilities in NASA Government website on Bugcrowd and more.
+- Reported Security Vulnerabilities on NASA Government website on Bugcrowd and more.
 
 ---
 
