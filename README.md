@@ -3,7 +3,6 @@
 
 [![Website](https://img.shields.io/website?label=su60su&style=flat-square&url=https://linktr.ee/aehdevils)][website]
 [![Twitter Follow](https://img.shields.io/twitter/follow/su60su?color=1DA1F2&logo=twitter&style=flat-square)](https://twitter.com/intent/follow?screen_name=su6osu)
-[![LinkedIn Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/deepanshu-chauhan-466232266)
 
 - Information security enthusiast with strong interest in penetration testing and offensive security.
 - Strong background in security tools, emerging technologies, processes and best practices.
@@ -46,8 +45,8 @@
 
 <!-- Reference Links -->
 
-[website]: https://linktr.ee/aehdevils
+[website]: https://0day-de.github.io/LinkHub
 [twitter]: https://twitter.com/su6osu
 [github]: https://github.com/0day-de
-[instagram]: https://instagram.com/su6o.su
-[linkedin]: https://linkedin.com/in/deepanshu-chauhan
+[instagram]: https://instagram.com/su6osu
+[linkedin]: https://www.linkedin.com/in/deepanshu-chauhan-466232266
