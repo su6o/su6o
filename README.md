@@ -1,52 +1,28 @@
-## 👋 Hi there, I'm Deepanshu Chauhan - aka [su6o.su][website]
+# 💫 About Me:
+🔭 I’m currently a student<br>👯 I’m looking for an internship<br>🤝 I’m looking to work with red team<br>🌱 I’m currently learning cybersecurity<br>💬 Ask me about cybersecurity,webdev<br>⚡ Fun fact : I'm a hacker & a programmer
 
 
-[![Website](https://img.shields.io/website?label=su60su&style=flat-square&url=https://linktr.ee/aehdevils)][website]
-[![Twitter Follow](https://img.shields.io/twitter/follow/su60su?color=1DA1F2&logo=twitter&style=flat-square)](https://twitter.com/intent/follow?screen_name=su6osu)
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/su6osu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/su6o) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/su6osu) 
 
-- Information security enthusiast with strong interest in penetration testing and offensive security.
-- Strong background in security tools, emerging technologies, processes and best practices.
-- Reported Security Vulnerabilities on NASA Government website on Bugcrowd and more.
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Linode](https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=0day-de&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=0day-de&theme=github_dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=0day-de&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
----
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=0day-de&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
-### 📕 Blog Posts
+### ✍️ Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<!-- LIST:START -->
-- HackTheBox ✉️ [Read Blog](https://www.hackthebox.com/blog)
-<!-- LIST:END -->
-- More Blog Posts - Coming Soon...
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=0day-de&limit=5&theme=highcontrast&combine_all_yearly_contributions=true)
 
-
-### 🎓 Certification Badges [ In Plan ]
-
-[<img align="left" width="100px" src="https://bhavsec.com/img/oscp-badge.png"/>](https://www.credential.net/29f7f885-5017-4ed0-b688-54cce6ea8ebc)
-[<img align="left" width="100px" src="https://bhavsec.com/img/ceh-badge.png"/>](https://aspen.eccouncil.org/VerifyBadge?type=certification&a=KfkCVMZRbFcw3rsbKPF8DZP1eqcq4QFLJP+stohNphI=)
-[<img align="left" width="100px" src="https://bhavsec.com/img/cybersecurity-cisco-badge.png"/>](https://www.credly.com/badges/ec563188-d435-4801-8d10-c8e2b7b4d6ff/public_url)
-[<img width="100px" src="https://bhavsec.com/img/pcep-badge.png"/>](https://www.credly.com/badges/c9288dec-c864-4da8-9cb8-eacc7b53fa8a)
-[<img width="100px" src="https://bhavsec.com/img/sc-900-logo.png"/>](https://www.credly.com/badges/faba37a2-52e5-45c4-aad6-37866b7aaa29?source=linked_in_profile)
-[<img width="100px" src="https://bhavsec.com/img/alteredsecurity-logo.png"/>](https://eu.badgr.com/public/assertions/nKkFN53UQ2m_BANVrOERPA?identity__email=bhavsec@gmail.com)
- ---
-
-### 📈 GitHub Statistics
-
-[![su6o.su GitHub stats](https://github-readme-stats.vercel.app/api?username=0day-de&show_icons=true&hide=contribs&count_private=true)][github]
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0day-de&layout=compact)][github]
+### 😂 Dev Meme
+<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 ---
-
-### Connect with me:
-
-[<img align="left" alt="linktr.ee/aehdevils" width="22px" src="https://img.icons8.com/material-rounded/24/FAB005/globe--v1.png"/>][website] 
-[<img align="left" alt="su6osu | Twitter" width="22px" src="https://img.icons8.com/ios-glyphs/30/FAB005/twitter--v1.png"/>][twitter]
-[<img align="left" alt="deepanshu-chauhan-466232266 | LinkedIn" width="22px" src="https://img.icons8.com/ios-glyphs/30/FAB005/linkedin.png"/>][linkedin]
-[<img align="left" alt="su6o.su | Instagram" width="22px" src="https://img.icons8.com/ios-glyphs/30/FAB005/instagram-new.png"/>][instagram]
-
-<!-- Reference Links -->
-
-[website]: https://0day-de.github.io/LinkHub
-[twitter]: https://twitter.com/su6osu
-[github]: https://github.com/0day-de
-[instagram]: https://instagram.com/su6osu
-[linkedin]: https://www.linkedin.com/in/deepanshu-chauhan-466232266
+[![](https://visitcount.itsvg.in/api?id=0day-de&icon=3&color=12)](https://visitcount.itsvg.in)
