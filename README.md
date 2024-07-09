@@ -21,9 +21,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=su6o&limit=5&theme=highcontrast&combine_all_yearly_contributions=true)
 
-### 😂 Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=su6o&icon=3&color=12)](https://visitcount.itsvg.in)
 
